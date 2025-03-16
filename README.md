@@ -49,23 +49,19 @@ EchoVision (EV) is an application designed to assist visually impaired users by 
 ## Technologies Used
 * Frontend: Figma, Canva
   
-* Speech Recognition: 
+* Speech Recognition: Chrome's built-in speech Sensitiser
   
-* Text-to-Speech: 
+* Text-to-Speech:  Chrome's built-in speech Sensitiser
   
-* Object Detection:
-  
-* Backend :
-* 
+* Object Detection: Detection 2, DeepSeek
+
 ## Contact and Support
 
 For assistance, contact the technical Support team:
 
-Emails: 
-gshanoya2@gmail.com, shevanisegivans44@gmail.com, tevinbenjamin@gmail.com, breanna.thomas@mymona.uwi.edu, omariodunkley7@gmail.com 
+Emails: gshanoya2@gmail.com, shevanisegivans44@gmail.com, tevinbenjamin@gmail.com, breanna.thomas@mymona.uwi.edu, omariodunkley7@gmail.com 
 
-Phone: 
-+1(876)472-8543, +1(876)159-7415, +1(876)586-8340, +1(876)995-7318, +1(658)202-4423
+Phone: +1(876)472-8543, +1(876)159-7415, +1(876)586-8340, +1(876)995-7318, +1(658)202-4423
 
 FAQs or support channels.
 
